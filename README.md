@@ -2,7 +2,7 @@
 [![An image of @saumyarocks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saumyarocks)](https://holopin.io/@saumyarocks)
 
 
-# 👋 Hello World, I'm Sukant Saumya!
+#  Hello , I'm Sukant Saumya! Thankyou 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F94EF&width=500&lines=Computer+Science+Student;Software+Developer;ML+Enthusiast;Flutter+Developer;Technical+Writer" alt="Typing SVG" />
