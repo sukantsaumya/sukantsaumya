@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/vJ4dERu.gif" alt="Coding GIF" width="80%">
+  <img src="https://tenor.com/view/anime-ed-ending-dandadan-ddd-gif-2635682946433668799" alt="Coding GIF" width="80%">
 </p>
 
 <div align="center">
