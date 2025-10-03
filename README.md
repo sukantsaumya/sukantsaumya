@@ -1,119 +1,125 @@
-### Hi there 👋  
-[![Holopin badges for @saumyarocks](https://holopin.me/saumyarocks)](https://holopin.io/@saumyarocks)
+### Hi there 👋
+[![An image of @saumyarocks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saumyarocks)](https://holopin.io/@saumyarocks)
+
+
+#  Hello , I'm Sukant Saumya! Thankyou 
 
 <div align="center">
-  <h1>👋 Hello, I'm <strong>Sukant Saumya</strong> — Quant + Software Dev</h1>
-
-  <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F94EF&width=720&lines=Computer+Science+Student;Quantitative+Analyst;Data+Analyst-in-Training;Flutter+Developer;Technical+Writer" alt="Typing SVG" />
-
-  <!-- Hero anime GIF: add your own 'anime.gif' to repo root and replace URL for reliability -->
-  <p>
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="anime hero" width="460" style="border-radius:12px; box-shadow: 0 12px 40px rgba(0,0,0,0.45)"/>
-  </p>
-
-  <p>📍 Patna, India • 🎓 BTech (CSE) @ VIT-AP • ✍️ Technical Content Writer @ GeeksForGeeks</p>
-
-  <!-- Quick contact badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/sukantsaumya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:14saumya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/sukantsaumya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F94EF&width=500&lines=Computer+Science+Student;Software+Developer;ML+Enthusiast;Flutter+Developer;Technical+Writer" alt="Typing SVG" />
 </div>
 
----
+Welcome to my digital playground! I'm a passionate developer from **Patna, India**, currently pursuing my **BTech in Computer Science at VIT-AP**. I build technology that matters — crafting **mobile experiences** with Flutter, exploring the frontiers of **machine learning**, and actively contributing to the **open-source** community.
 
-## 🔎 Snapshot / Resume highlights
-- **Name:** Sukant Saumya  
-- **Degree:** B.Tech, Computer Science & Engineering — VIT-AP • *Expected Jun 2026* (CGPA: 8.16/10).  
-- **Role focus:** Quantitative Analysis, Data Analytics, ML engineering & Flutter mobile development.  
-- **Contact:** 14saumya2004@gmail.com
+## 🚀 What I'm Good At
 
-*(This README updated per your resume file.)* :contentReference[oaicite:1]{index=1}
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Machine Learning & AI</h3>
+      <p align="center">
+        Transforming data into insights and building intelligent systems that solve real-world problems
+      </p>
+      <p align="center"><b>Tools:</b> scikit-learn • pandas • OpenCV • Tesseract • TensorFlow</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Flutter Development</h3>
+      <p align="center">
+        Crafting beautiful, high-performance cross-platform applications with intuitive user experiences
+      </p>
+      <p align="center"><b>Expertise:</b> BLoC • Firebase • RESTful APIs • Payment Integration • Google Maps</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧪 Engineering Solutions</h3>
+      <p align="center">
+        Building hardware-software integrated systems that bridge technology gaps and enhance accessibility
+      </p>
+      <p align="center"><b>Projects:</b> Visual Read Assist Device for Visually Impaired • IoT Solutions</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✍️ Technical Writing</h3>
+      <p align="center">
+        Sharing knowledge and simplifying complex concepts as a Technical Content Writer for GeeksForGeeks
+      </p>
+      <p align="center"><b>Topics:</b> Programming Fundamentals • Mobile Development • Software Engineering</p>
+    </td>
+  </tr>
+</table>
 
----
+## 💡 Featured Projects
 
-## 🚀 What I build & Focus Areas
-I combine quantitative finance techniques with software engineering to build reproducible, production-quality tools and apps:
+<table>
+  <tr>
+    <td>
+      <h3>🎯 Visual Read Assist Device</h3>
+      <p>An accessibility solution for visually impaired users that converts printed text to speech in real-time.</p>
+      <p><b>Tech:</b> Raspberry Pi • Python • Tesseract OCR • Text-to-Speech • OpenCV</p>
+      <p><b>Impact:</b> Helps visually impaired individuals gain independence by accessing printed materials</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🅿️ SmartPark: Parking Management System</h3>
+      <p>A comprehensive parking solution with real-time availability tracking and seamless payment processing.</p>
+      <p><b>Tech:</b> Flutter • Firebase • Google Maps API • Stripe/PayPal • BLoC Pattern</p>
+      <p><b>Features:</b> Real-time parking spot tracking • QR-based entry/exit • Multiple payment options • Admin dashboard</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎵 MelodiX: Music Player App</h3>
+      <p>A feature-rich music player supporting both offline and online playback with an elegant UI.</p>
+      <p><b>Tech:</b> Dart • Flutter • Retrofit • SQLite • ExoPlayer • Clean Architecture</p>
+      <p><b>Features:</b> Playlist management • Equalizer • Background playback • Lyrics integration • Audio visualization</p>
+    </td>
+  </tr>
+</table>
 
-- **Quant & Data Science:** yield curve modelling, risk analytics, time-series forecasting, backtests.  
-- **Data Analytics:** ETL, SQL, visualization, Pandas, data pipelines and dashboards.  
-- **Mobile & Frontend:** Flutter apps with clean architecture and cross-platform performance.  
-- **Writer & Mentor:** Technical content creation to simplify concepts for learners.
+## 🛠️ Technology Stack
 
----
-
-## 🧰 Tech Stack (expanded)
 <div align="center">
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-![LSEG](https://img.shields.io/badge/-LSEG-0B57A4?style=for-the-badge&logo=data:image/svg+xml)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-> Added skills & tools from your resume: **Pandas, NumPy, time-series, Monte Carlo, SQL, Azure/Oracle/LSEG** and quant-specific topics. :contentReference[oaicite:2]{index=2}
+## 📊 GitHub Analytics
 
----
-
-## 💡 Featured Projects (updated)
-> Removed older experimental quant items from this README and added two flagship projects that better showcase applied impact and product design.
-
-### 🎯 Visual Read Assist Device
-**Summary:** Real-time OCR → audio pipeline for visually impaired users.  
-**Tech:** Raspberry Pi, Python, Tesseract OCR, OpenCV, Text-to-Speech, lightweight NN models.  
-**Why it matters:** Accessibility tool that converts printed text to speech immediately — focused on reliability and low-latency on edge hardware.
-
-### 🅿️ SmartPark — Parking Management System
-**Summary:** End-to-end parking solution: spot detection, real-time availability, QR gate access and integrated payments.  
-**Tech:** Flutter (mobile), Firebase backend, Google Maps APIs, Stripe/PayPal, Admin dashboard.  
-**Why it matters:** Reduces search time, increases utilization, enables contactless payments and analytics for operators.
-
-> **Other work / small demos:** MelodiX (music player), small ML demos and backtests — listed in repos.
-
----
-
-## 📊 Data Analyst — Current emphasis
-I’m currently shifting focus to **Data Analytics**: building robust ETL pipelines, dashboards, SQL reporting and production-ready data transformations. Expect more dashboard demos, Kaggle-style notebooks, and dashboards in upcoming repos.
-
----
-
-## ✨ Features I added to my projects (so you can find them easily)
-- Demo GIFs / short screen-recordings for UI projects.  
-- Notebook + dataset + reproducible instructions for data projects.  
-- Docker setups for production demos and a small `server.js` to proxy AI requests (local `.env` for keys).  
-- A “Try it” link in project READMEs (where applicable) pointing to gh-pages/demo or deployed preview.
-
----
-
-## 📈 GitHub Analytics & Fun
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sukantsaumya&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantsaumya&theme=tokyonight" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sukantsaumya&theme=tokyonight&column=7" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sukantsaumya&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
+</div>
 
-## 🎯 Open to
-- Internships / roles in Data Analytics, Quantitative Analysis, ML engineering.  
-- Collaborations on accessibility & fintech side projects.  
-- Technical writing & mentoring opportunities.
+## 🔍 What I'm Currently Exploring
 
----
+<div align="center">
 
-## 📫 Let’s connect
+| AI & ML | Development | Systems |
+|:-------:|:-----------:|:-------:|
+| GPT-4 & AI Coding Assistants | Flutter State Management | Self-hosted LLMs (Ollama) |
+| Federated Learning | Progressive Web Apps | Edge AI & TinyML |
+| ML-Enhanced Mobile Apps | WebAssembly | System Design Patterns |
+| AI in Cybersecurity | Cloud-Native Architecture | Low-Latency Computing |
+
+</div>
+
+## 📫 Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sukantsaumya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:14saumya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -122,20 +128,14 @@ I’m currently shifting focus to **Data Analytics**: building robust ETL pipeli
 
 ---
 
-## 🧾 Downloadable resume
-If you'd like, I can automatically generate a compact PDF resume from your repo content and place it in the repo (or provide a download link). Tell me if you want that.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sukantsaumya&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
----
+<div align="center">
+  
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-### How to update `README.md` in your repo
-1. Copy the entire content above.  
-2. In your repo folder:
-```bash
-# make a safety branch first
-git checkout -b update-readme
-# replace README.md content (easiest: open README.md in an editor and paste)
-# then:
-git add README.md
-git commit -m "Update profile README — aligned with resume and feature updates"
-git push origin update-readme
-# then open a Pull Request on GitHub and merge when ready (or push to main)
+</div>
+
+Thanks for visiting my profile! If you find my work interesting, don't forget to ⭐ my repositories or reach out for collaborations. Let's build something amazing together! 🚀
