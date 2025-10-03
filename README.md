@@ -9,9 +9,9 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://tenor.com/view/anime-ed-ending-dandadan-ddd-gif-2635682946433668799" alt="Coding GIF" width="80%">
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007CF0&center=true&width=550&lines=Quantitative+Analyst;Computer+Science+Student;Software+Developer;ML+%26+Data+Scientist;Technical+Writer" alt="Typing SVG" />
