@@ -65,6 +65,7 @@ Welcome to my digital space! I'm a developer and aspiring quantitative analyst f
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
@@ -84,7 +85,7 @@ Welcome to my digital space! I'm a developer and aspiring quantitative analyst f
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantsaumya&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sukantsaumya&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="httpsimg.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
 ---
 ## 🔍 Currently Exploring
